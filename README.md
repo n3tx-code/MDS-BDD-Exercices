@@ -6,8 +6,8 @@ Les exercices du module sont à réaliser avec phpMyAdmin sur une base de donné
 
 ## Session 1 : Gestion de base de données avec phpMyAdmin
 
-Les exercices de la session 1 sont dans le dossier [exercice 1/](exercice%201).
+Les exercices de la session 1 sont dans le dossier [exercice 1](exercice%201).
 
 ## Session 2 : Requête simple de sélection avec SQL
 
-Les exercices de la session 2 sont dans le dossier [exercice 2/](exercice%202).
+Les exercices de la session 2 sont dans le dossier [exercice 2](exercice%202).

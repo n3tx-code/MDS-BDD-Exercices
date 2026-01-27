@@ -1,6 +1,6 @@
 # Exercice 2
 
-## Contexte
+## Contexte 
 Import d'une table unique `import_ventes` de lignes mal structurées qui provient d'un fichier Excel d'un service fictif de ventes de produits.
 
 **Important** : Les requêtes SQL produites et les actions réalisés de chaque exercice doivent être notés dans un document.

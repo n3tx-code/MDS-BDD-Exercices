@@ -1,3 +1,4 @@
+-- Main table to import sales data
 CREATE TABLE import_ventes (
     id INT AUTO_INCREMENT PRIMARY KEY,
     date_transaction DATE,
