@@ -11,3 +11,7 @@ Les exercices de la session 1 sont dans le dossier [exercice 1](exercice%201).
 ## Session 2 : Requête simple de sélection avec SQL
 
 Les exercices de la session 2 sont dans le dossier [exercice 2](exercice%202).
+
+## Session 3 : Requête de CRUD
+
+Les exercices de la session 3 sont dans le dossier [exercice 3](exercice%203).
